@@ -1,0 +1,6 @@
+-Install maven
+-Compile the code with maven by adding all the relevant hadoop dependencies- mvn clean compile
+-create a jar file - mvn clean package
+- move it to server
+-Create hadoop input directory
+-run the jar - > ./hadoop jar <jar name> <input folder path> <output folder path>

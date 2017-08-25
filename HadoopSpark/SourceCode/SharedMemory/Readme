@@ -1,0 +1,3 @@
+-Create Input and Output folders mentioned in code
+-Compile program - javac ExternalMergeQuickSort.java
+-run program with number of threads (1,2,4,8) -> java ExternalMergeQuickSort 1

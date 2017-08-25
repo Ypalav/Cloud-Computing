@@ -1,0 +1,12 @@
+com/PA3/Worker/RemoteWorker/LinkedList.class
+com/PA3/Worker/RemoteWorker/CreateQueue.class
+com/PA3/Worker/RemoteWorker/SimpleQueueService.class
+com/PA3/Worker/RemoteWorker/PoolingService.class
+com/PA3/Worker/RemoteWorker/Queue.class
+com/PA3/Worker/RemoteWorker/BckEndRWorkers.class
+com/PA3/Worker/RemoteWorker/App.class
+com/PA3/Worker/RemoteWorker/Worker.class
+com/PA3/Worker/RemoteWorker/DynamoDB.class
+com/PA3/Worker/RemoteWorker/PoolingService$1.class
+com/PA3/Worker/RemoteWorker/Node.class
+com/PA3/Worker/RemoteWorker/PoolingService$2.class
